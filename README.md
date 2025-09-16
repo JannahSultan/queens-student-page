@@ -1,3 +1,1 @@
 # queens-student-page
-
-Test
